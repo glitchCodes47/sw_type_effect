@@ -3,6 +3,9 @@
 Create MorebBlok 
 typerString("Text")setTextTo(textview)delayfor(delay);
 
+
+Copy this code
+
 s = ""; 
 
 n = 0;
